@@ -1,0 +1,10 @@
+{
+  "simulation": "project.CustomerLoadTesting",
+  "simulationId": "customerloadtesting",
+  "start": 1604903656740,
+  "description": "",
+  "scenarios": ["customer-load-testing"],
+  "assertions": [
+
+  ]
+}
