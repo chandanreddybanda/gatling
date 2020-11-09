@@ -12,7 +12,7 @@ class CustomerLoadTesting extends Simulation{
 				"Connection"-> "keep-alive")
 
 	val httpProtocol = http
-    				.baseUrl("http://54.160.202.148:8765/api")
+    				.baseUrl("http://20.50.2.214:8765/api")
     				.doNotTrackHeader("1")
 				.acceptLanguageHeader("en-US,en;q=0.5")
 				.header("Accept", "*/*")
